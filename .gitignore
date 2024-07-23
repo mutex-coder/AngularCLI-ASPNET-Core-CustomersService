@@ -43,3 +43,8 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+.vs/*
+.vs/Angular_ASPNETCore_CustomersService/v17/.suo
+/.vs/Angular_ASPNETCore_CustomersService/v17/.suo
+/.vs/Angular_ASPNETCore_CustomersService/v17/DocumentLayout.json
+/.gitignore
