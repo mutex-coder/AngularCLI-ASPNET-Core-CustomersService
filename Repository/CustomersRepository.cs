@@ -88,7 +88,7 @@ namespace Angular_ASPNETCore_CustomersService.Repository
             _Context.Remove(customer);
             try
             {
-              return (await _Context.SaveChangesAsync() > 0 ? true : false);
+              return (await _Context.SaveChangesAsync() > 0);
             }
             catch (System.Exception exp)
             {

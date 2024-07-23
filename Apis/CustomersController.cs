@@ -6,6 +6,7 @@ using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using Microsoft.AspNetCore.Http;
 
 namespace Angular_ASPNETCore_CustomersService.Apis
 {
@@ -49,7 +50,7 @@ namespace Angular_ASPNETCore_CustomersService.Apis
             try
             {
                 var pagingResult = await _CustomersRepository.GetCustomersPageAsync(skip, take);
-                Response.Headers.Add("X-InlineCount", pagingResult.TotalRecords.ToString());
+                Response.Headers.Append("X-InlineCount", pagingResult.TotalRecords.ToString());
                 return Ok(pagingResult.Records);
             }
             catch (Exception exp)

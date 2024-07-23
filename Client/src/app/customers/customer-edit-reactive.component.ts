@@ -1,6 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 import { Router, ActivatedRoute } from '@angular/router';
-import { AbstractControl, FormBuilder, FormGroup, Validators } from '@angular/forms';
+import { AbstractControl, UntypedFormBuilder, UntypedFormGroup, Validators } from '@angular/forms';
 
 import { DataService } from '../core/data.service';
 import { ICustomer, IState } from '../shared/interfaces';
@@ -12,7 +12,7 @@ import { ValidationService } from '../shared/validation.service';
 })
 export class CustomerEditReactiveComponent implements OnInit {
 
-  customerForm: FormGroup = {} as FormGroup;
+  customerForm: UntypedFormGroup = {} as UntypedFormGroup;
   get f(): { [key: string]: AbstractControl } {
     return this.customerForm.controls;
   }
@@ -34,7 +34,7 @@ export class CustomerEditReactiveComponent implements OnInit {
   constructor(private router: Router, 
               private route: ActivatedRoute, 
               private dataService: DataService,
-              private formBuilder: FormBuilder) { }
+              private formBuilder: UntypedFormBuilder) { }
 
   ngOnInit() {
     let id = this.route.snapshot.params['id'];

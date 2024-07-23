@@ -39,8 +39,8 @@ namespace Angular_ASPNETCore_CustomersService.Repository
             db.States.AddRange(states);
             try
             {
-                int numAffected = await db.SaveChangesAsync();
-                _Logger.LogInformation(@"Saved {numAffected} states");
+                var numAffected = await db.SaveChangesAsync();
+                _Logger.LogInformation("Saved {numAffected} states", numAffected);
             }
             catch (Exception exp)
             {                

@@ -1,0 +1,377 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|c:\\users\\aghaeiho-1\\downloads\\angularcli-aspnet-core-customersservice\\client\\src\\environments\\environment.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|solutionrelative:client\\src\\environments\\environment.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|c:\\users\\aghaeiho-1\\downloads\\angularcli-aspnet-core-customersservice\\client\\src\\environments\\environment.prod.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|solutionrelative:client\\src\\environments\\environment.prod.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|c:\\users\\aghaeiho-1\\downloads\\angularcli-aspnet-core-customersservice\\client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|solutionrelative:client\\src\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|c:\\users\\aghaeiho-1\\downloads\\angularcli-aspnet-core-customersservice\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|c:\\users\\aghaeiho-1\\downloads\\angularcli-aspnet-core-customersservice\\client\\src\\polyfills.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|solutionrelative:client\\src\\polyfills.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|c:\\users\\aghaeiho-1\\downloads\\angularcli-aspnet-core-customersservice\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|solutionrelative:startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|c:\\users\\aghaeiho-1\\downloads\\angularcli-aspnet-core-customersservice\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|c:\\users\\aghaeiho-1\\downloads\\angularcli-aspnet-core-customersservice\\repository\\statesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|solutionrelative:repository\\statesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|c:\\users\\aghaeiho-1\\downloads\\angularcli-aspnet-core-customersservice\\repository\\istatesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|solutionrelative:repository\\istatesrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|c:\\users\\aghaeiho-1\\downloads\\angularcli-aspnet-core-customersservice\\apis\\statescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|solutionrelative:apis\\statescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|c:\\users\\aghaeiho-1\\downloads\\angularcli-aspnet-core-customersservice\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|c:\\users\\aghaeiho-1\\downloads\\angularcli-aspnet-core-customersservice\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|c:\\users\\aghaeiho-1\\downloads\\angularcli-aspnet-core-customersservice\\repository\\customersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|solutionrelative:repository\\customersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|c:\\users\\aghaeiho-1\\downloads\\angularcli-aspnet-core-customersservice\\repository\\customersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|solutionrelative:repository\\customersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|c:\\users\\aghaeiho-1\\downloads\\angularcli-aspnet-core-customersservice\\repository\\icustomersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|solutionrelative:repository\\icustomersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|c:\\users\\aghaeiho-1\\downloads\\angularcli-aspnet-core-customersservice\\models\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|solutionrelative:models\\state.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|c:\\users\\aghaeiho-1\\downloads\\angularcli-aspnet-core-customersservice\\models\\pagingresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|solutionrelative:models\\pagingresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|c:\\users\\aghaeiho-1\\downloads\\angularcli-aspnet-core-customersservice\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|c:\\users\\aghaeiho-1\\downloads\\angularcli-aspnet-core-customersservice\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|c:\\users\\aghaeiho-1\\downloads\\angularcli-aspnet-core-customersservice\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|solutionrelative:models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|c:\\users\\aghaeiho-1\\downloads\\angularcli-aspnet-core-customersservice\\infrastructure\\nocacheattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A1FC50-2672-4E63-8B0F-415996E6718A}|Angular_ASPNETCore_CustomersService.csproj|solutionrelative:infrastructure\\nocacheattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "environment.ts",
+              "DocumentMoniker": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Client\\src\\environments\\environment.ts",
+              "RelativeDocumentMoniker": "Client\\src\\environments\\environment.ts",
+              "ToolTip": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Client\\src\\environments\\environment.ts",
+              "RelativeToolTip": "Client\\src\\environments\\environment.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-23T10:39:25.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "environment.prod.ts",
+              "DocumentMoniker": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Client\\src\\environments\\environment.prod.ts",
+              "RelativeDocumentMoniker": "Client\\src\\environments\\environment.prod.ts",
+              "ToolTip": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Client\\src\\environments\\environment.prod.ts",
+              "RelativeToolTip": "Client\\src\\environments\\environment.prod.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-23T10:39:24.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Client\\src\\index.html",
+              "RelativeDocumentMoniker": "Client\\src\\index.html",
+              "ToolTip": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Client\\src\\index.html",
+              "RelativeToolTip": "Client\\src\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-23T10:38:11.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-23T10:38:01.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "polyfills.ts",
+              "DocumentMoniker": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Client\\src\\polyfills.ts",
+              "RelativeDocumentMoniker": "Client\\src\\polyfills.ts",
+              "ToolTip": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Client\\src\\polyfills.ts",
+              "RelativeToolTip": "Client\\src\\polyfills.ts",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2024-07-23T10:37:27.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Startup.cs",
+              "RelativeDocumentMoniker": "Startup.cs",
+              "ToolTip": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Startup.cs",
+              "RelativeToolTip": "Startup.cs",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:34:52.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:34:38.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StatesController.cs",
+              "DocumentMoniker": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Apis\\StatesController.cs",
+              "RelativeDocumentMoniker": "Apis\\StatesController.cs",
+              "ToolTip": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Apis\\StatesController.cs",
+              "RelativeToolTip": "Apis\\StatesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:33:52.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T10:33:42.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-23T10:33:38.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StatesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Repository\\StatesRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\StatesRepository.cs",
+              "ToolTip": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Repository\\StatesRepository.cs",
+              "RelativeToolTip": "Repository\\StatesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:32:00.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStatesRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Repository\\IStatesRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IStatesRepository.cs",
+              "ToolTip": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Repository\\IStatesRepository.cs",
+              "RelativeToolTip": "Repository\\IStatesRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:31:57.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ICustomersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Repository\\ICustomersRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\ICustomersRepository.cs",
+              "ToolTip": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Repository\\ICustomersRepository.cs",
+              "RelativeToolTip": "Repository\\ICustomersRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:28:54.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CustomersRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Repository\\CustomersRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\CustomersRepository.cs",
+              "ToolTip": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Repository\\CustomersRepository.cs",
+              "RelativeToolTip": "Repository\\CustomersRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:28:48.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CustomersDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Repository\\CustomersDbContext.cs",
+              "RelativeDocumentMoniker": "Repository\\CustomersDbContext.cs",
+              "ToolTip": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Repository\\CustomersDbContext.cs",
+              "RelativeToolTip": "Repository\\CustomersDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:28:27.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "State.cs",
+              "DocumentMoniker": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Models\\State.cs",
+              "RelativeDocumentMoniker": "Models\\State.cs",
+              "ToolTip": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Models\\State.cs",
+              "RelativeToolTip": "Models\\State.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:28:24.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PagingResult.cs",
+              "DocumentMoniker": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Models\\PagingResult.cs",
+              "RelativeDocumentMoniker": "Models\\PagingResult.cs",
+              "ToolTip": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Models\\PagingResult.cs",
+              "RelativeToolTip": "Models\\PagingResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:28:14.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:28:12.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:27:54.877Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "Models\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "Models\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:27:51.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "NoCacheAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Infrastructure\\NoCacheAttribute.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\NoCacheAttribute.cs",
+              "ToolTip": "C:\\Users\\aghaeiho-1\\Downloads\\AngularCLI-ASPNET-Core-CustomersService\\Infrastructure\\NoCacheAttribute.cs",
+              "RelativeToolTip": "Infrastructure\\NoCacheAttribute.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-23T10:27:27.829Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
